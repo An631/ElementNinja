@@ -1,0 +1,29 @@
+﻿<xapCache source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Bin\ARM\Master\ElementNinja_Master_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="1/28/2014 8:36:28 PM">
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\obj\ARM\Master\ElementNinja.dll" archivePath="ElementNinja.dll" lastWriteTime="1/28/2014 8:36:24 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="12/4/2013 6:22:02 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="12/4/2013 6:22:02 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="12/4/2013 6:22:02 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="12/4/2013 6:22:02 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="12/4/2013 6:22:02 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="12/4/2013 6:22:02 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Data\mainData" archivePath="Data\mainData" lastWriteTime="1/28/2014 8:36:17 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Data\managedAssemblies.txt" archivePath="Data\managedAssemblies.txt" lastWriteTime="1/28/2014 8:36:23 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Data\Resources\unity default resources" archivePath="Data\Resources\unity default resources" lastWriteTime="12/4/2013 6:39:34 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Data\Resources\unity_builtin_extra" archivePath="Data\Resources\unity_builtin_extra" lastWriteTime="1/28/2014 8:36:17 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Data\sharedassets0.assets" archivePath="Data\sharedassets0.assets" lastWriteTime="1/28/2014 8:36:17 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Bin\ARM\Master\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="1/17/2014 8:34:44 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Bin\ARM\Master\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="12/4/2013 6:22:02 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Bin\ARM\Master\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="12/4/2013 6:22:02 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Assembly-CSharp.dll" archivePath="Assembly-CSharp.dll" lastWriteTime="1/28/2014 8:36:23 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\Players\ARM\Master\BridgeInterface.winmd" archivePath="BridgeInterface.winmd" lastWriteTime="12/11/2013 2:57:36 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\UnityEngine.dll" archivePath="UnityEngine.dll" lastWriteTime="1/28/2014 8:36:21 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\Players\ARM\Master\UnityEngineDelegates.winmd" archivePath="UnityEngineDelegates.winmd" lastWriteTime="12/11/2013 2:57:38 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\Players\ARM\Master\UnityEngineProxy.dll" archivePath="UnityEngineProxy.dll" lastWriteTime="12/11/2013 2:57:42 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\Players\ARM\Master\UnityPlayer.winmd" archivePath="UnityPlayer.winmd" lastWriteTime="12/11/2013 3:06:34 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\Players\ARM\Master\WinRTBridge.dll" archivePath="WinRTBridge.dll" lastWriteTime="12/11/2013 2:57:40 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\WinRTLegacy.dll" archivePath="WinRTLegacy.dll" lastWriteTime="1/28/2014 8:36:22 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\Players\ARM\Master\BridgeInterface.dll" archivePath="BridgeInterface.dll" lastWriteTime="12/11/2013 2:57:36 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\Players\ARM\Master\UnityEngineDelegates.dll" archivePath="UnityEngineDelegates.dll" lastWriteTime="12/11/2013 2:57:38 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\Players\ARM\Master\UnityPlayer.dll" archivePath="UnityPlayer.dll" lastWriteTime="12/11/2013 3:07:18 PM" />
+  <file source="C:\Users\A\Documents\ElementNinja\WindowsPhone8Build\ElementNinja\Bin\ARM\Master\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="1/17/2014 8:34:49 PM" />
+</xapCache>
